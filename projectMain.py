@@ -4,8 +4,8 @@ import sys
 
 import requests
 
- version_details = "Python Version ==  " + sys.version
- path_details = "PATH for Python == " + sys.executable
+version_details = "Python Version ==  " + sys.version
+path_details = "PATH for Python == " + sys.executable
 
 
 def greet(who_to_greet):
